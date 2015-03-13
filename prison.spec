@@ -2,7 +2,7 @@
 Summary:	Prison - a barcode api to produce QRCode barcodes and DataMatrix barcodes
 Name:		prison
 Version:	1.0
-Release:	3
+Release:	4
 License:	GPL v2
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/stable/prison/1.0/src/%{name}-%{version}.tar.gz
